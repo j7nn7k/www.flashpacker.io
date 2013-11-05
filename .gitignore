@@ -1,4 +1,10 @@
+.idea
+node_modules
+venv
+
 *.log
 *.pot
 *.pyc
-local_settings.py
+*.sqlite3
+
+distribute-*.tar.gz
