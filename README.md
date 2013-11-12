@@ -2,10 +2,10 @@
 
 A mobile first open source blogging platform
 
-Motivations for starting this project
+# Motivations for starting this project
 
-http://jannikweyrich.com/blog/2013/11/06/building-flashpacker-a-mobile-open-source-blogging-platform-part1.html
+http://jannikweyrich.com/blog/2013/11/06/building-a-mobile-first-open-source-blogging-platform-part1.html
 
-## license
+# License
 
 MIT
